@@ -1,3 +1,7 @@
+- 🔗 **Оригинальный репозиторий**: [svelte-work-time-tracker](https://github.com/tecspda/svelte-work-time-tracker)
+- ✍️ **Автор**: [tecspda](https://github.com/tecspda)
+- 📖 **Репозиторий используется в статье**: [Как создать и развернуть приложение на Svelte](https://timeweb.cloud/tutorials/javascript/kak-razvernut-prilozhenie-na-svelte)
+
 # Your selfhosted time tracker
 This is a demo project for [Timeweb Cloud Apps](https://timeweb.cloud/services/apps). You can freely use it in your developments
 
